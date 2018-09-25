@@ -1,7 +1,4 @@
 #######################################################################################################################
-# Copyright (C) Virtuosys Limited - All Rights Reserved.
-# Unauthorised copying of this file, via any medium is strictly prohibited. Proprietary and confidential. [2015]-[2019]
-#######################################################################################################################
 #
 #   File:           platform_program.mk
 #
